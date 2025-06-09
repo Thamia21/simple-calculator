@@ -18,7 +18,7 @@ A clean, responsive calculator built with vanilla JavaScript, HTML, and CSS. Thi
 
 ## Screenshot
 
-![Calculator Screenshot](screenshot.png)
+![Calculator Screenshot](Screenshot.png)
 
 ## Getting Started
 
